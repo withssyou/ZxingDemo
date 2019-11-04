@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/sweep_bar_code"
+        android:title="扫条码"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/bar_code"
+        android:title="扫二维码"
+        app:showAsAction="never" />
+</menu>
